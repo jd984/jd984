@@ -7,11 +7,10 @@ Blockchain Developer and Student
 I’m Jesal Thakur currently I am pursuing B.E. in Computer Science Engineering. I have a keen interest in Blockchain development and Web development. I’m looking for opportunities to grow Blockchain development sector. I am good at problem-solving and front-end as well as back-end development
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://jesal-portfolio.vercel.app/)
-* ✉️  You can contact me at [jesalthakur984@gmail.com](mailto:jesalthakur984@gmail.com)
-* 🚀  I'm currently working on [NFT Marketplace](http://github.com/jd984/nft-marketplace)
+* 🖥️  See my portfolio at [My Portfolio](https://jd-portfolio-one.vercel.app/)
+* ✉️  You can contact me at [jesalthakur984@gmail.com](mailto:jesalthakur77984@gmail.com)
 * 🧠  I'm learning Solidity and new Blockchain technologies
-* 🤝  I'm open to collaborating on any web3 projects.
+* 🤝  I'm open to collaborating on Frontend projects.
 
 ### Skills
 
