@@ -9,7 +9,7 @@ I am a novice software developer, sharpening my skills in creating Frontend web 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://jd-portfolio-one.vercel.app/)
 * ✉️  You can contact me at [jesalthakur984@gmail.com](mailto:jesalthakur77984@gmail.com)
-* 🧠  I'm learning Solidity and new Blockchain technologies
+* 🧠  I'm learning Frontend and Backend technologies
 * 🤝  I'm open to collaborating on Frontend projects.
 
 ### Skills
