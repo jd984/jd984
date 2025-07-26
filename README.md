@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jesal Thakur
+# Hello World!
 
 I'm a passionate **Frontend Developer** with 1.5+ years of experience building fast, scalable, and modern web applications using **Next.js**, **React**, and **TypeScript**.
 
