@@ -33,7 +33,6 @@ Currently working as a **Junior Software Engineer at [Concetto Labs](https://www
 
 - 🌐 [Portfolio](https://jesal.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesalthakur984/)
-- 🧑‍💻 [GitHub](https://github.com/jd984)
 - 📧 [Email](mailto:jesalthakur77984@gmail.com)
 
 ---
