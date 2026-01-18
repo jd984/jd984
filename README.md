@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm a passionate **Frontend Developer** with 1.5+ years of experience building fast, scalable, and modern web applications using **Next.js**, **React**, and **TypeScript**. Actively enhancing full-stack skills through hands-on experience with backend technologies in the **MERN** stack
+**Frontend Developer** with over 2 years of experience developing high-performance, scalable web applications using **NextJS** and **TypeScript**. Actively enhancing full-stack skills through hands-on experience with backend technologies in the **MERN** stack.
 
 Currently working as a **Junior Software Engineer at [Concetto Labs](https://www.concettolabs.com/)**, I specialize in crafting reusable UI components, optimizing frontend performance, and building seamless user experiences with cutting-edge tools.
 
