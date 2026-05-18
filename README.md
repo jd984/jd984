@@ -34,7 +34,7 @@ Currently at **[Concetto Labs](https://www.concettolabs.com/)**, building for [J
 
 ## 🚀 Featured Project
 
-**[StoreIt](https://github.com/jd984)** — Cloud-based file management app built with Next.js, TypeScript, and Appwrite. 5 categorized views, 200MB storage, file sharing, and auth.
+**[StoreIt](https://store-it-seven-gamma.vercel.app/)** — Cloud-based file management app built with Next.js, TypeScript, and Appwrite. 5 categorized views, 200MB storage, file sharing, and auth.
 
 ---
 
@@ -42,7 +42,7 @@ Currently at **[Concetto Labs](https://www.concettolabs.com/)**, building for [J
 
 - 🌐 [Portfolio](https://jesal.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesalthakur984/)
-- 📧 [Email](mailto:jesalthakur984@gmail.com)
+- 📧 [Email](mailto:jesalthakur77984@gmail.com)
 
 ---
 
